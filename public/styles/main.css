@@ -13,7 +13,7 @@ body {
   padding-bottom: 2rem;
   box-sizing: border-box;
 }
-h1 {
+h1,h2 {
   color: white;
   font-family: "Titan One", cursive;
   margin-bottom: 20px;
